@@ -11,6 +11,8 @@ ElasticSearch Hackathon Material
   - enron: collection of emails from Enron Email Dataset. About 0.5mln records. Mapping: [https://gist.github.com/imotov/5169937](https://gist.github.com/imotov/5169937)
 
 ### Traackr Data
+This data is loaded in MongoDB so that you can re-index it into ES in any way you find interesting:
+
 - Loaded on Mongo instance on cluster-7-data-00.sl.hackreduce.net
 - Mongo URI: mongodb://cluster-7-data-00.sl.hackreduce.net:28953
 - Database name: traackr
