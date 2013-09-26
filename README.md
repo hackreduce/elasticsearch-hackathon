@@ -3,6 +3,10 @@ elasticsearch-hackathon
 
 ElasticSearch Hackathon Material
 
+## ElasticSearch Installation
+
+[http://www.elasticsearch.org/guide/reference/setup/installation/](http://www.elasticsearch.org/guide/reference/setup/installation/)
+
 ## Available Datasets
 ### Elasticsearch Data
 - Loaded on elasticsearch cluster on cluster-7-slave-00.sl.hackreduce.net
