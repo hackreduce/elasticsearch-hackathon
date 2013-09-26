@@ -15,8 +15,8 @@ ElasticSearch Hackathon Material
 - Mongo URI: mongodb://cluster-7-data-00.sl.hackreduce.net:28953
 - Database name: traackr
 - Two collections are available:
-- posts: collection of articles and tweets. About 23 million records. JSON data structure: [https://gist.github.com/gpstathis/5170137](https://gist.github.com/gpstathis/5170137)
-- influencers: collection of authors corresponding to the articles in the “posts” collection. About 85K records. JSON data structure: [https://gist.github.com/gpstathis/5170171](https://gist.github.com/gpstathis/5170171)
+  - posts: collection of articles and tweets. About 23 million records. JSON data structure: [https://gist.github.com/gpstathis/5170137](https://gist.github.com/gpstathis/5170137)
+  - influencers: collection of authors corresponding to the articles in the “posts” collection. About 85K records. JSON data structure: [https://gist.github.com/gpstathis/5170171](https://gist.github.com/gpstathis/5170171)
 
 ## Useful Links
 ### Elasticsearch Plugin Examples
