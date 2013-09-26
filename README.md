@@ -7,8 +7,8 @@ ElasticSearch Hackathon Material
 ### Elasticsearch Data
 - Loaded on elasticsearch cluster on cluster-7-slave-00.sl.hackreduce.net
 - Two indices are available:
-- wikipedia: collection of english wikipedia articles and tweets. About 13 million records. Mapping: [https://gist.github.com/imotov/5169928](https://gist.github.com/imotov/5169928)
-- enron: collection of emails from Enron Email Dataset. About 0.5mln records. Mapping: [https://gist.github.com/imotov/5169937](https://gist.github.com/imotov/5169937)
+  - wikipedia: collection of english wikipedia articles and tweets. About 13 million records. Mapping: [https://gist.github.com/imotov/5169928](https://gist.github.com/imotov/5169928)
+  - enron: collection of emails from Enron Email Dataset. About 0.5mln records. Mapping: [https://gist.github.com/imotov/5169937](https://gist.github.com/imotov/5169937)
 
 ### Traackr Data
 - Loaded on Mongo instance on cluster-7-data-00.sl.hackreduce.net
