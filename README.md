@@ -8,7 +8,7 @@ All attendees:
 - Git and git client (to download or share code)
 - A GitHub account (to share your creations)
 - Text editor or IDE of choice
-- Either the [native Java Client](http://www.elasticsearch.org/guide/reference/java-api/), or an ElasticSearch client for the language of your choice: [http://www.elasticsearch.org/guide/clients/](http://www.elasticsearch.org/guide/clients/)
+- Either the [native Java Client](http://www.elasticsearch.org/guide/reference/java-api/) (see provided skeleton [Java ES Client project](https://github.com/hackreduce/elasticsearch-hackathon/tree/master/java/es-client) ), or an ElasticSearch client for the language of your choice: [http://www.elasticsearch.org/guide/clients/](http://www.elasticsearch.org/guide/clients/)
 
 ## ElasticSearch Installation
 
