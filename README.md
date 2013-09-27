@@ -3,7 +3,16 @@ elasticsearch-hackathon
 
 ElasticSearch Hackathon Material
 
+## Prerequisites
+All attendees:
+- Git and git client (to download or share code)
+- A GitHub account (to share your creations)
+- Text editor or IDE of choice
+- Either the [native Java Client](http://www.elasticsearch.org/guide/reference/java-api/), or an ElasticSearch client for the language of your choice: [http://www.elasticsearch.org/guide/clients/](http://www.elasticsearch.org/guide/clients/)
+
 ## ElasticSearch Installation
+
+It's recommended that you download and play with Elasticsearch locally if only to get familiar with the basic commands.
 
 [http://www.elasticsearch.org/guide/reference/setup/installation/](http://www.elasticsearch.org/guide/reference/setup/installation/)
 
