@@ -9,7 +9,7 @@ ElasticSearch Hackathon Material
 
 ## Available Datasets
 ### Elasticsearch Data
-- Loaded on elasticsearch cluster on cluster-7-slave-00.sl.hackreduce.net
+- Loaded on elasticsearch cluster on cluster-7-slave-00.sl.hackreduce.net (visual cuslter representation can be see through the [ElasticSearch Head Plugin](http://cluster-7-slave-00.sl.hackreduce.net:9200/_plugin/head/))
 - Two indices are available:
   - wikipedia: collection of english wikipedia articles and tweets. About 13 million records. Mapping: [https://gist.github.com/imotov/5169928](https://gist.github.com/imotov/5169928)
   - enron: collection of emails from Enron Email Dataset. About 0.5mln records. Mapping: [https://gist.github.com/imotov/5169937](https://gist.github.com/imotov/5169937)
