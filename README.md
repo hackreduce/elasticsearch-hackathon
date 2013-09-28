@@ -34,6 +34,10 @@ This data is loaded in MongoDB so that you can re-index it into ES in any way yo
   - influencers: collection of authors corresponding to the articles in the “posts” collection. About 85K records. JSON data structure: [https://gist.github.com/gpstathis/5170171](https://gist.github.com/gpstathis/5170171)
 
 ## Useful Links
+### Elasticsearch Clients
+- [Ruby, Python, PHP, Perl](http://www.elasticsearch.org/blog/unleash-the-clients-ruby-python-php-perl/)
+- [Everything else](http://www.elasticsearch.org/guide/clients/)
+
 ### Elasticsearch Plugin Examples
 - [Plugin Directory](http://www.elasticsearch.org/guide/reference/modules/plugins.html)
 - [Native Script](https://github.com/imotov/elasticsearch-native-script-example)
