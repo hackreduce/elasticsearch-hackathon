@@ -1,0 +1,13 @@
+cluster.name: "your-cluster-name"
+network.host: "127.0.0.1"
+discovery.zen.ping.multicast.enabled: false
+discovery.zen.ping.unicast.hosts: ["localhost"]
+
+# Disable stopwords
+index:
+  analysis:
+    analyzer:
+      default:
+        type: "custom"
+        tokenizer: "standard"
+        filters: ["lowercase"]
